@@ -7,7 +7,7 @@ Geyser enables clients from Minecraft Bedrock Edition to join your Minecraft Jav
 ## Contents
 
 - [Project Links](#project-links)
-- [Geyser Plugins](#geyser-plugins)
+- [Geyser Extensions](#geyser-extensions)
 - [Server Plugins](#server-plugins)
 - [Useful](#useful)
 
@@ -17,9 +17,9 @@ Geyser enables clients from Minecraft Bedrock Edition to join your Minecraft Jav
 - [GeyserMC Home Page](https://geysermc.org/)
 - [GeyserMC Official Discord](https://discord.geysermc.org/)
 
-## Geyser Plugins
+## Geyser Extensions
 
-Note that you will require a build of Geyser that supports plugins. Until [this PR](https://github.com/GeyserMC/Geyser/pull/742) is merged you can use a [bleeding edge build](https://github.com/bundabrg/Geyser/releases)
+Note that you will require a build of Geyser that supports extensions. Until [this PR](https://github.com/GeyserMC/Geyser/pull/742) is merged you can use a [bleeding edge build](https://github.com/bundabrg/Geyser/releases)
 that has this feature added.
 
 
